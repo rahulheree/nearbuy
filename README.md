@@ -1,4 +1,4 @@
-# 🧭 Hyperlocal Shop Finder – Backend
+no# 🧭 Hyperlocal Shop Finder – Backend
 
 A location-based backend service that helps users discover nearby shops (within a 2–5 meter radius) that stock specific items — like “Maggie”, “batteries”, or “coffee sachets” — with real-time availability, quantity, and shop status.
 
